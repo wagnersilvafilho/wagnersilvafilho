@@ -8,10 +8,17 @@ Devido a um desafio proposto pela empresa na qual estou disputando uma vaga, est
 
 Em breve, espero expandir meus conhecimentos para conseguir espaço no mercado de trabalho da área...
 
-![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/_wagnersf?style=social)
+<h2 align="center">Programming Languages</h2>
+
+<div align=center>
+<a href = "https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://html.com/"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://kotlinlang.org/docs/home.html"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+</div>
 
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">My Statistics</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -34,11 +41,12 @@ Em breve, espero expandir meus conhecimentos para conseguir espaço no mercado d
    </div>
 </p>
 <hr>
- 
+
+<h2 align="center">Find me in:</h2>
 <div align=center>
-<a href = "mailto: wagnersf97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.instagram.com/wagnerfilho97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp &nbsp &nbsp
-<a href = "https://github.com/wagnersilvafilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.linkedin.com/in/wagnerfilho97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp &nbsp &nbsp
-<a href = "https://twitter.com/_wagnersf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp
+<a href = "mailto: wagnersf97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp &nbsp &nbsp &nbsp
+<a href = "https://github.com/wagnersilvafilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp <br><br>
+<a href = "https://www.instagram.com/wagnerfilho97/"><img width="25px" src="https://image000.flaticon.com/png/512/174/174855.png"/></a> &nbsp &nbsp &nbsp &nbsp
+<a href = "https://www.linkedin.com/in/wagnerfilho97/"><img width="25px" src="https://image000.flaticon.com/png/512/2111/2111499.png"/></a> &nbsp &nbsp &nbsp &nbsp
+<a href = "https://twitter.com/_wagnersf"><img width="25px" src="https://image000.flaticon.com/png/512/733/733579.png"/></a>
 </div>
