@@ -44,8 +44,7 @@ Em breve, espero expandir meus conhecimentos para conseguir espaço no mercado d
 
 <h2 align="center">Find me in:</h2>
 <div align=center>
-<a href = "mailto: wagnersf97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp &nbsp &nbsp &nbsp
-<a href = "https://github.com/wagnersilvafilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp <br><br>
+<a href = "mailto: wagnersf97@gmail.com"><img width="28px" src="https://image.flaticon.com/icons/png/512/281/281786.png"/></a> &nbsp &nbsp &nbsp &nbsp
 <a href = "https://www.instagram.com/wagnerfilho97/"><img width="25px" src="https://image000.flaticon.com/png/512/174/174855.png"/></a> &nbsp &nbsp &nbsp &nbsp
 <a href = "https://www.linkedin.com/in/wagnerfilho97/"><img width="25px" src="https://image000.flaticon.com/png/512/2111/2111499.png"/></a> &nbsp &nbsp &nbsp &nbsp
 <a href = "https://twitter.com/_wagnersf"><img width="25px" src="https://image000.flaticon.com/png/512/733/733579.png"/></a>
