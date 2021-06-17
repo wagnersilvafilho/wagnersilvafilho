@@ -8,8 +8,9 @@ Devido a um desafio proposto pela empresa na qual estou disputando uma vaga, est
 
 Em breve, espero expandir meus conhecimentos para conseguir espaço no mercado de trabalho da área...
 
-<hr>
+![Twitter Follow](https://img.shields.io/twitter/follow/https://twitter.com/_wagnersf?style=social)
 
+<hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -33,3 +34,11 @@ Em breve, espero expandir meus conhecimentos para conseguir espaço no mercado d
    </div>
 </p>
 <hr>
+ 
+<div align=center>
+<a href = "wagnersf97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.instagram.com/wagnerfilho97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://github.com/wagnersilvafilho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.linkedin.com/in/wagnerfilho97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://twitter.com/_wagnersf"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> &nbsp
+</div>
