@@ -11,10 +11,12 @@ Em breve, espero expandir meus conhecimentos para conseguir espaço no mercado d
 <h2 align="center">Programming Languages</h2>
 
 <div align=center>
-<a href = "https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/></a> &nbsp &nbsp &nbsp
 <a href = "https://html.com/"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp &nbsp &nbsp
 <a href = "https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp &nbsp &nbsp
-<a href = "https://kotlinlang.org/docs/home.html"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a href = "https://kotlinlang.org/docs/home.html"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a><br><br>
+<a href = "https://www.typescriptlang.org/docs/"><img alt="Kotlin" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Kotlin" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 </div>
 
 <hr>
