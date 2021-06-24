@@ -1,23 +1,50 @@
-Olá, meu nome é Wagner Silva Filho.
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wagnersilvafilho&repo=wagnersilvafilho&countColorcountColor)
 
-Sou estudante de Ciência da Computação na Universidade Federal de Catalão.
+Hi, my name is Wagner Filho.
 
-Estive atuando na área de telecomunicações por 1 ano e meio, porém decidi me aventurar pelo mundo do desenvolvimento de aplicações.
+I'm 23 yo computer science student.
 
-Devido a um desafio proposto pela empresa na qual estou disputando uma vaga, estarei me aprofundando no java, utilizando principalmente as ferramentas do Spring.
+Currently working as back-end developer
 
-Em breve, espero expandir meus conhecimentos para conseguir espaço no mercado de trabalho da área...
+Here you'll see the tecnologies I've been learning and the tools that have helped me so far.
 
-<h2 align="center">Programming Languages</h2>
+<h2 align=center>Programming Languages</h2>
 
 <div align=center>
 <a href = "https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"/></a> &nbsp &nbsp &nbsp
 <a href = "https://html.com/"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a> &nbsp &nbsp &nbsp
 <a href = "https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp &nbsp &nbsp
 <a href = "https://kotlinlang.org/docs/home.html"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a><br><br>
-<a href = "https://www.typescriptlang.org/docs/"><img alt="Kotlin" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a> &nbsp &nbsp &nbsp
-<a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Kotlin" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href = "https://www.typescriptlang.org/docs/"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a> &nbsp &nbsp &nbsp
+<a href = "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 </div>
+
+<h2 align=center>Databases</h2>
+<div align=center>
+<a href = "https://dbeaver.io/"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.mongodb.com/pt-br"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.postgresql.org/"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.beekeeperstudio.io/"><img width="50px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a>
+</div>
+
+<h2 align=center>Frameworks & Dev Tools</h2>
+<a href = "https://insomnia.rest/"><img width="40px" src="https://user-images.githubusercontent.com/28610089/123190497-00d32880-d476-11eb-98de-a17bcb65875d.png"/></a> &nbsp &nbsp &nbsp 
+<a href = "https://www.docker.com/"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"/></a> &nbsp &nbsp &nbsp
+<a href = "https://spring.io/"><img width="100px" src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-logo.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://hibernate.org/"><img width="180px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.postman.com/"><img width="50px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://code.visualstudio.com/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a> &nbsp &nbsp &nbsp
+
+
+
+<a href = "https://www.mathworks.com/products/matlab.html"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"/></a>
+
+<a href = "https://www.jetbrains.com/pt-br/idea/"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>
+
+
+
+
+<a href = "https://ubuntu.com/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/></a>
 
 <hr>
 <h2 align="center">My Statistics</h2>
