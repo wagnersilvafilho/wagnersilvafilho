@@ -21,31 +21,23 @@ Here you'll see the tecnologies I've been learning and the tools that have helpe
 
 <h2 align=center>Databases</h2>
 <div align=center>
-<a href = "https://dbeaver.io/"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.mongodb.com/pt-br"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.postgresql.org/"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.beekeeperstudio.io/"><img width="50px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a>
+<a href = "https://dbeaver.io/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.mongodb.com/pt-br"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/mongo1.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.postgresql.org/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.beekeeperstudio.io/"><img width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.h2database.com/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/h2-dbase.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.mysql.com/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/mysql.png"/></a>
 </div>
 
 <h2 align=center>Frameworks & Dev Tools</h2>
-<a href = "https://insomnia.rest/"><img width="40px" src="https://user-images.githubusercontent.com/28610089/123190497-00d32880-d476-11eb-98de-a17bcb65875d.png"/></a> &nbsp &nbsp &nbsp 
-<a href = "https://www.docker.com/"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"/></a> &nbsp &nbsp &nbsp
-<a href = "https://spring.io/"><img width="100px" src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-logo.png"/></a> &nbsp &nbsp &nbsp
-<a href = "https://hibernate.org/"><img width="180px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.postman.com/"><img width="50px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png"/></a> &nbsp &nbsp &nbsp
-<a href = "https://code.visualstudio.com/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a> &nbsp &nbsp &nbsp
-
-
-
-<a href = "https://www.mathworks.com/products/matlab.html"><img width="50px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"/></a>
-
-<a href = "https://www.jetbrains.com/pt-br/idea/"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>
-
-
-
-
+<div align=center>
+<a href = "https://spring.io/"><img width="40px" src="https://img.icons8.com/color/452/spring-logo.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://hibernate.org/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/hibernate.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://nodejs.org/en/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/nodeJS.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.docker.com/"><img width="45px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://ubuntu.com/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/></a>
-
+</div>
+  
 <hr>
 <h2 align="center">My Statistics</h2>
 <br>
