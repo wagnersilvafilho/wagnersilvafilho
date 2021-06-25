@@ -43,8 +43,7 @@
  
 </div>
 
-<h2 align="center">My Statistics</h2>
-<br>
+<h2 align="center">Github Stats:</h2>
 <p align=center>
   <div align=center>
 <!--    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
