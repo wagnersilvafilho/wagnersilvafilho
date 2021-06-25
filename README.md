@@ -1,12 +1,14 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wagnersilvafilho&repo=wagnersilvafilho&countColorcountColor)
 
-Hi, my name is Wagner Filho.
+- Hi, my name is Wagner Filho 👋 <br>
+- I'm 23 yo and also a computer science student 👨🏻‍🎓 <br>
+- Currently working as back-end developer 👨🏻‍💻 <br>
 
-I'm 23 yo and also a computer science student.
+<details>
+  <summary> Wanna see how homeoffice fells like? 😄 </summary>
+   <a href="https://github.com/wagnersilvafilho"><img alt="GIF" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/work.gif?raw=true" title="homework" alt="Please refresh the page if the meme doesn't show up." width="300" height="200"></a>
+</details>
 
-Currently working as back-end developer.
-
-Here you'll see the tecnologies I've been learning and the tools that have helped me so far.
 
 <h2 align=center>Programming Languages</h2>
 
@@ -35,25 +37,25 @@ Here you'll see the tecnologies I've been learning and the tools that have helpe
 <a href = "https://www.docker.com/"><img width="40px" src="https://image.flaticon.com/icons/png/512/919/919853.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://ubuntu.com/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/></a> <br>
 <a href = "https://yarnpkg.com/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/yarn.svg"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.beekeeperstudio.io/"><img width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a>
+<a href = "https://www.beekeeperstudio.io/"><img width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.postman.com/"><img width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/></a> &nbsp &nbsp &nbsp
+ <a href = "https://insomnia.rest/download"><img width="40px" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png"/></a>
+ 
 </div>
 
 <h2 align="center">My Statistics</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+<!--    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=wagnersilvafilho&theme=react&border=61dafb&hide_border=true" alt="wagnersilvafilho" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=wagnersilvafilho&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    </a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnersilvafilho&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
+  </div>
+  <div align=center>
+    
   </div>
    <div align=center>
   <br>
@@ -61,10 +63,13 @@ Here you'll see the tecnologies I've been learning and the tools that have helpe
    </div>
 </p>
 
-<h2 align="center">Find me in:</h2>
+<h2 align="center"> How to reach me:</h2>
 <div align=center>
-<a href = "mailto: wagnersf97@gmail.com"><img width="28px" src="https://image.flaticon.com/icons/png/512/281/281786.png"/></a> &nbsp &nbsp &nbsp &nbsp
-<a href = "https://www.instagram.com/wagnerfilho97/"><img width="25px" src="https://image000.flaticon.com/png/512/174/174855.png"/></a> &nbsp &nbsp &nbsp &nbsp
-<a href = "https://www.linkedin.com/in/wagnerfilho97/"><img width="25px" src="https://image000.flaticon.com/png/512/2111/2111499.png"/></a> &nbsp &nbsp &nbsp &nbsp
-<a href = "https://twitter.com/_wagnersf"><img width="25px" src="https://image000.flaticon.com/png/512/733/733579.png"/></a>
+<a href = "https://www.facebook.com/swagner97"><img width="50px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/fb_logo.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://twitter.com/_wagnersf"><img width="50px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/twitter_logo.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.linkedin.com/in/wagnerfilho97/"><img width="50px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/linkedin_logo.png"/></a>
 </div>
+
+<!--    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=wagnersilvafilho&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a> -->
