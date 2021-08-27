@@ -1,7 +1,7 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wagnersilvafilho&repo=wagnersilvafilho&countColorcountColor)
 
 - Hi, my name is Wagner Filho 👋 <br>
-- Bachelor from B.S. in Computer Science 👨🏻‍🎓 <br>
+- B.S. in Computer Science 👨🏻‍🎓 <br>
 - Currently working as back-end developer 👨🏻‍💻 <br>
 
 <details>
