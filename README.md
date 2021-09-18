@@ -23,7 +23,7 @@
 
 <h2 align=center>Databases</h2>
 <div align=center>
-<a href = "https://dbeaver.io/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/pngwing.com.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://www.mongodb.com/pt-br"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/mongo1.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://www.postgresql.org/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/></a> &nbsp &nbsp &nbsp
 <a href = "https://www.h2database.com/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/h2-dbase.png"/></a> &nbsp &nbsp &nbsp
@@ -41,7 +41,7 @@
 <a href = "https://www.beekeeperstudio.io/"><img width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://www.postman.com/"><img width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/></a> &nbsp &nbsp &nbsp
 <a href = "https://insomnia.rest/download"><img width="40px" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png"/></a> &nbsp &nbsp &nbsp
-<a href = "https://insomnia.rest/download"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-512.png"/></a> 
+<a href = "https://laravel.com/docs/8.x/installation"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-512.png"/></a> 
 </div>
 
 <h2 align="center">Github Stats:</h2>
