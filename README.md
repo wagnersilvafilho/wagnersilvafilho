@@ -41,8 +41,8 @@
 <a href = "https://www.beekeeperstudio.io/"><img width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://www.postman.com/"><img width="40px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"/></a> &nbsp &nbsp &nbsp
 <a href = "https://insomnia.rest/download"><img width="40px" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png"/></a> &nbsp &nbsp &nbsp
-<a href = "https://laravel.com/docs/8.x/installation"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-512.png"/></a> 
-<a href = "https://www.apache.org/"><img width="40px" src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-9.png"/></a> 
+<a href = "https://laravel.com/docs/8.x/installation"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-512.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.apache.org/"><img width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-9.png"/></a> 
 </div>
 
 <h2 align="center">Github Stats:</h2>
