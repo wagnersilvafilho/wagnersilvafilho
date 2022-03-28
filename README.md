@@ -55,13 +55,13 @@
     </a>
   </div>
   <div align=center>
-    
+ <!--   
   </div>
    <div align=center>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=wagnersilvafilho&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
    </div>
-</p>
+</p>-->
 
 <h2 align="center"> How to reach me:</h2>
 <div align=center>
