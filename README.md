@@ -35,7 +35,7 @@
 <a href = "https://spring.io/"><img width="40px" src="https://img.icons8.com/color/452/spring-logo.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://hibernate.org/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/hibernate.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://nodejs.org/en/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/nodeJS.png"/></a> &nbsp &nbsp &nbsp
-<a href = "https://www.docker.com/"><img width="40px" src="https://image.flaticon.com/icons/png/512/919/919853.png"/></a> &nbsp &nbsp &nbsp
+<a href = "https://www.docker.com/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/></a> &nbsp &nbsp &nbsp
 <a href = "https://ubuntu.com/"><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/></a> <br>
 <a href = "https://yarnpkg.com/"><img width="40px" src="https://github.com/wagnersilvafilho/wagnersilvafilho/blob/master/yarn.svg"/></a> &nbsp &nbsp &nbsp
 <a href = "https://www.beekeeperstudio.io/"><img width="40px" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png"/></a> &nbsp &nbsp &nbsp
